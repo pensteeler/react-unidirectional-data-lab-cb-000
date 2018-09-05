@@ -14,6 +14,7 @@ const addFile = () => {
 };
 
 const removeFile = (index) => {
+  
 };
 
 const updateFile = (index, file) => {

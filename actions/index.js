@@ -18,7 +18,7 @@ const removeFile = (index) => {
 };
 
 const updateFile = (index, file) => {
-  
+  fileStore.updateFile(index, file);
 };
 
 export default {
